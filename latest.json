@@ -1,8 +1,8 @@
 {
     "checksum":  "0be39ae81adb8e5c3fbaa4edef65fcdbf80160c655859220be17c7d7f0867ba3",
     "versionName":  "1.6.71",
-    "publishedAt":  "2026-11-24T16:23:13Z",
+    "publishedAt":  "2026-11-24T16:23:17Z",
     "versionCode":  106,
     "notes":  "ota-check-fix",
-    "apkUrl":  "https://cdn.jsdelivr.net/gh/narmercloud-droid/Bukarest-updates@main/apk/app-production-release.apk"
+    "apkUrl":  "https://cdn.jsdelivr.net/gh/narmercloud-droid/Bukarest-updates@9428a99076e9adbe790a421d42aac50ed72b2cd0/apk/app-production-release.apk"
 }
