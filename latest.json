@@ -1,8 +1,8 @@
 {
   "versionCode": 103,
   "versionName": "1.6.68",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/narmercloud-droid/Bukarest-updates@2297153d946c52a36cad66f270ca910e399c1046/apk/app-production-release.apk",
+  "apkUrl": "https://github.com/narmercloud-droid/Bukarest-updates/releases/download/v1.6.68/app-production-release.apk",
   "checksum": "9f2595fc0fa2f0ee9cb83dd00893614d5c2fd59354673bc12bfb12c58b3eb5e4",
-  "publishedAt": "2026-11-24T16:05:00Z",
+  "publishedAt": "2026-11-24T16:10:00Z",
   "notes": "Remote update test + fullscreen"
 }
